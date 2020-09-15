@@ -1,0 +1,12 @@
+eureka:
+  client:
+   serviceUrl:
+    defaultZone: http://localhost:8000/eureka
+server:
+  port: 9001
+spring:
+  application:
+   name: hystirx-turbine
+turbine:
+  appConfig: SERVICE-RIBBON,SERVICE-FEIGN
+  clusterNameExpression: new String("default")

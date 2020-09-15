@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "endpoint.health.show-details.hystrix.stream.enabled",
+      "type": "java.lang.String",
+      "description": "Description for endpoint.health.show-details.hystrix.stream.enabled."
+    },
+    {
+      "name": "endpoint.health.show-details.hystrix.stream.enabled",
+      "type": "java.lang.String",
+      "description": "Description for endpoint.health.show-details.hystrix.stream.enabled."
+    },
+    {
+      "name": "endpoint.health.show-details.hystrix.stream.enabled",
+      "type": "java.lang.String",
+      "description": "Description for endpoint.health.show-details.hystrix.stream.enabled."
+    }
+  ] }
